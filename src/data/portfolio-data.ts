@@ -30,7 +30,7 @@ export const CONTENT = {
     heading: "## contact",
     lines: [
       "email: morozov.nikita1302@gmail.com",
-      "github: github.com/NKFR52",
+      "github: github.com/frxtq",
       "location: Kyiv, Ukraine",
       "telegram: t.me/froxtq"
     ]
